@@ -2,7 +2,7 @@
 
 This repository is developed to share some basic statistics related code developed in Python. 
 
-Currently, it has two sets of codes:
+Currently, it has examples related to the topics below:
 
 1- Linear Regression 
 
